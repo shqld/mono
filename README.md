@@ -1,0 +1,2 @@
+# mono
+Utils for monorepos
